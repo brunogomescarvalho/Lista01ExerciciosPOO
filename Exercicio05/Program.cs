@@ -10,7 +10,7 @@ namespace Exercicio05
             Console.Clear();
 
             Esfera esfera = new Esfera();
-            esfera.Raio = 50;
+            esfera.Raio = 10;
 
             Console.WriteLine($"O volume da esfera é de: {esfera.volume}");
         }

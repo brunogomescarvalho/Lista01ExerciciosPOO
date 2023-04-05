@@ -1,4 +1,4 @@
-public static class Gestao
+public static class GestaoDeAlunos
 {
     public static decimal CalcularValorMedia(Aluno aluno)
     {
