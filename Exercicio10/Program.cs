@@ -5,7 +5,6 @@
         public static void Main(string[] args)
         {
             Aluno aluno = new Aluno();
-            aluno.Nome = "Algum nome";
 
             aluno.Provas = new List<Prova>();
 
@@ -14,7 +13,7 @@
 
 
             Console.Clear();
-            Console.WriteLine($"O valor da média ponderada de {aluno.Provas.Count} provas do aluno {aluno.Nome} é de {aluno.Media} ");
+            Console.WriteLine($"O valor da média ponderada de {aluno.Provas.Count} provas do aluno é de {aluno.Media} ");
 
         }
     }
