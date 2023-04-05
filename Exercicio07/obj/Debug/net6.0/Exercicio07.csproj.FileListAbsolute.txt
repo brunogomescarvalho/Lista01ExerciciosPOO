@@ -1,0 +1,15 @@
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\bin\Debug\net6.0\Exercicio07.exe
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\bin\Debug\net6.0\Exercicio07.deps.json
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\bin\Debug\net6.0\Exercicio07.runtimeconfig.json
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\bin\Debug\net6.0\Exercicio07.dll
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\bin\Debug\net6.0\Exercicio07.pdb
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\Exercicio07.csproj.AssemblyReference.cache
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\Exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\Exercicio07.AssemblyInfoInputs.cache
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\Exercicio07.AssemblyInfo.cs
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\Exercicio07.csproj.CoreCompileInputs.cache
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\Exercicio07.dll
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\refint\Exercicio07.dll
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\Exercicio07.pdb
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\Exercicio07.genruntimeconfig.cache
+C:\AP\Modulo_1\ListaExercicios_IntroducaoOrientadoObjetos\Exercicio07\obj\Debug\net6.0\ref\Exercicio07.dll
