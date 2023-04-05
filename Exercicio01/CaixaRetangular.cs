@@ -22,9 +22,11 @@ public class CaixaRetangular
     public bool ReceberDados(decimal[] dimensoes)
     {
         if (ValidarDimensoes(dimensoes))
-            this.Dimensoes = dimensoes;
+        {
+            this.Dimensoes = dimensoes; return true;
+        }
 
-        return ValidarDimensoes(dimensoes) ? true : false;
+        return false;
     }
 
     private bool ValidarDimensoes(decimal[] dimensoes)
