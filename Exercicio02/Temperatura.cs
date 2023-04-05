@@ -2,12 +2,12 @@ namespace Exercicio02
 {
     public class Temperatura
     {
-        public decimal ValorEmCelsius { get; private set; }
-        public decimal ValorEmFahrenheit { get; set; }
+        public decimal ValorCelsius { get; private set; }
+        public decimal ValorFahrenheit { get; set; }
 
-        public void ConverterValorFahrenheitParaCelsius()
+        public void ConverterFahrenheitCelsius()
         {
-            this.ValorEmCelsius = this.ValorEmFahrenheit - 32 / 1.8M;
+            this.ValorCelsius = this.ValorFahrenheit - 32 / 1.8M;
         }
 
     }

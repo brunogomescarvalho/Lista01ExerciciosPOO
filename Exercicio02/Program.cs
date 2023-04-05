@@ -6,11 +6,11 @@
         {
             Temperatura temperatura = new Temperatura();
 
-            temperatura.ValorEmFahrenheit = 35;
+            temperatura.ValorFahrenheit = 35;
 
-            temperatura.ConverterValorFahrenheitParaCelsius();
+            temperatura.ConverterFahrenheitCelsius();
 
-            Console.WriteLine($"{temperatura.ValorEmFahrenheit}° Fahrenheit = {temperatura.ValorEmCelsius}° Celsius");
+            Console.WriteLine($"{temperatura.ValorFahrenheit}° Fahrenheit = {temperatura.ValorCelsius}° Celsius");
         }
     }
 }

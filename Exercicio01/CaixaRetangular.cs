@@ -1,42 +1,38 @@
 public class CaixaRetangular
 {
-
     private decimal comprimento;
     private decimal largura;
     private decimal altura;
-
-    private decimal[] Dimensoes
-    {
-        set
-        {
-            comprimento = value[0];
-            largura = value[1];
-            altura = value[2];
-        }
-    }
     public decimal Volume
     {
         get => CalcularVolume();
     }
-
-    public bool ReceberDados(decimal[] dimensoes)
+    public decimal[] Dimensoes
     {
-        if (ValidarDimensoes(dimensoes))
+        set
         {
-            this.Dimensoes = dimensoes; return true;
+            if (this.ValidarInput(value))
+            {
+                comprimento = value[0];
+                largura = value[1];
+                altura = value[2];
+            }
+            else
+            {
+                throw new Exception("Valores informados Inválidos\n");
+            }
         }
-
-        return false;
     }
 
-    private bool ValidarDimensoes(decimal[] dimensoes)
-    {
-        return (dimensoes[0] <= 0 || dimensoes[1] <= 0 || dimensoes[2] <= 0) ? false : true;
-    }
 
     private decimal CalcularVolume()
     {
-        return comprimento * largura * altura;
+        return Math.Round(comprimento * largura * altura, 2);
+    }
+
+    private bool ValidarInput(decimal[] valores)
+    {
+        return (valores[0] <= 0 || valores[1] <= 0 || valores[2] <= 0) ? false : true;
     }
 }
 

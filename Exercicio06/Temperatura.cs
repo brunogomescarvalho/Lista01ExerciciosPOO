@@ -9,15 +9,23 @@ namespace Exercicio06
 
         public decimal ConverterTemperatura()
         {
-            return this.tipo == Tipo.FAHRENHEIT ? this.Valor - 32 / 1.8M : this.Valor * 1.8M + 32M;
+            return this.tipo == Tipo.FAHRENHEIT ? ConverterParaFahrenheit() : ConverterParaCelsius();
         }
 
+        private decimal ConverterParaCelsius()
+        {
+            return this.Valor * 1.8M + 32M;
+        }
+
+        private decimal ConverterParaFahrenheit()
+        {
+            return this.Valor - 32 / 1.8M;
+        }
 
         public enum Tipo
         {
             CELSIUS,
             FAHRENHEIT,
-
         }
     }
 }

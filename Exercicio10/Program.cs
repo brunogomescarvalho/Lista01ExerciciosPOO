@@ -5,12 +5,12 @@
         public static void Main(string[] args)
         {
             Aluno aluno = new Aluno();
-            aluno.Nome = "Bruno";
+            aluno.Nome = "Algum nome";
 
             aluno.Provas = new List<Prova>();
 
-            aluno.Provas.Add(new Prova() { Nota = 7.75M, Peso = 8 });
-            aluno.Provas.Add(new Prova() { Nota = 8.75M, Peso = 9 });
+            aluno.Provas.Add(new Prova() { Nota = 7.65M, Peso = 8 });
+            aluno.Provas.Add(new Prova() { Nota = 8.76M, Peso = 9 });
 
 
             Console.Clear();
