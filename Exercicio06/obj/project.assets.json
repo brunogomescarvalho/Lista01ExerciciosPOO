@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AP\\Modulo_1\\ListaExercicios_IntroducaoOrientadoObjetos\\Exercicio06\\Exercicio06.csproj",
+      "projectUniqueName": "C:\\AP\\Modulo_1\\Lista01ExerciciosPOO\\Exercicio06\\Exercicio06.csproj",
       "projectName": "Exercicio06",
-      "projectPath": "C:\\AP\\Modulo_1\\ListaExercicios_IntroducaoOrientadoObjetos\\Exercicio06\\Exercicio06.csproj",
+      "projectPath": "C:\\AP\\Modulo_1\\Lista01ExerciciosPOO\\Exercicio06\\Exercicio06.csproj",
       "packagesPath": "C:\\Users\\7brun\\.nuget\\packages\\",
-      "outputPath": "C:\\AP\\Modulo_1\\ListaExercicios_IntroducaoOrientadoObjetos\\Exercicio06\\obj\\",
+      "outputPath": "C:\\AP\\Modulo_1\\Lista01ExerciciosPOO\\Exercicio06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\7brun\\AppData\\Roaming\\NuGet\\NuGet.Config",

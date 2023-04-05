@@ -1,13 +1,12 @@
 namespace Exercicio02
 {
-    public class Temperatura
+    public class TemperaturaFahrenheit
     {
-        public decimal ValorCelsius { get; private set; }
-        public decimal ValorFahrenheit { get; set; }
+        public decimal Graus { get; set; }
 
-        public void ConverterFahrenheitCelsius()
+        public decimal ConverterFahrenheitCelsius()
         {
-            this.ValorCelsius = this.ValorFahrenheit - 32 / 1.8M;
+            return Math.Round((Graus - 32) * 5 / 9, 2);
         }
 
     }

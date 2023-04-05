@@ -4,13 +4,13 @@
     {
         public static void Main(string[] args)
         {
-            Temperatura temperatura = new Temperatura();
+            TemperaturaFahrenheit temperatura = new TemperaturaFahrenheit();
 
-            temperatura.ValorFahrenheit = 35;
+            temperatura.Graus = 35;
 
-            temperatura.ConverterFahrenheitCelsius();
+            decimal celsius = temperatura.ConverterFahrenheitCelsius();
 
-            Console.WriteLine($"{temperatura.ValorFahrenheit}° Fahrenheit = {temperatura.ValorCelsius}° Celsius");
+            Console.WriteLine($"{temperatura.Graus}° Fahrenheit = {celsius}° Celsius");
         }
     }
 }

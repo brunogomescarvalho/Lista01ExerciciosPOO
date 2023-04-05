@@ -1,0 +1,15 @@
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\bin\Debug\net6.0\Exercicio06.exe
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\bin\Debug\net6.0\Exercicio06.deps.json
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\bin\Debug\net6.0\Exercicio06.runtimeconfig.json
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\bin\Debug\net6.0\Exercicio06.dll
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\bin\Debug\net6.0\Exercicio06.pdb
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\Exercicio06.csproj.AssemblyReference.cache
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\Exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\Exercicio06.AssemblyInfoInputs.cache
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\Exercicio06.AssemblyInfo.cs
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\Exercicio06.csproj.CoreCompileInputs.cache
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\Exercicio06.dll
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\refint\Exercicio06.dll
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\Exercicio06.pdb
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\Exercicio06.genruntimeconfig.cache
+C:\AP\Modulo_1\Lista01ExerciciosPOO\Exercicio06\obj\Debug\net6.0\ref\Exercicio06.dll

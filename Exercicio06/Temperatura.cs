@@ -14,12 +14,12 @@ namespace Exercicio06
 
         private decimal ConverterParaCelsius()
         {
-            return this.Valor * 1.8M + 32M;
+            return Math.Round((this.Valor * 9 / 5) + 32, 2);
         }
 
         private decimal ConverterParaFahrenheit()
         {
-            return this.Valor - 32 / 1.8M;
+            return Math.Round((this.Valor - 32) * 5 / 9, 2);
         }
 
         public enum Tipo
